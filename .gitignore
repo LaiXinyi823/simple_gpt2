@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# add ignore
+thucnews_data.json
+thucnews_data.zip
+
+.DS_Store
